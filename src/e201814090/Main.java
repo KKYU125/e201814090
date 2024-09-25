@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("Kim Seungkyu");
 		World.run();
 		world.run2();
+		Hello.run();
 	}
 }
